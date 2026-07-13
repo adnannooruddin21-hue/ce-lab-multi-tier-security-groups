@@ -3,7 +3,7 @@
 **Week 2 - Core Services & Secure Deployment**  
 **Day 2 - Advanced Security and HTTP Access**
 
-**Repository:** [https://github.com/cloud-engineering-bootcamp/ce-lab-multi-tier-security](https://github.com/cloud-engineering-bootcamp/ce-lab-multi-tier-security)
+**Repository:** [https://github.com/cloud-engineering-bootcamp/ce-lab-multi-tier-security-groups](https://github.com/cloud-engineering-bootcamp/ce-lab-multi-tier-security-groups)
 
 **Activity Type:** Individual (Mandatory)  
 **Estimated Time:** 45-60 minutes
